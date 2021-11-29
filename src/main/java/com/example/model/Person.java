@@ -12,13 +12,7 @@ public class Person {
 		return id;
 	}
 	
-	p = new Person();
-	p.setId("3");
-	p.setAge("25");
-	p.setFirstName("miled");
-	p.setLastName("Ben Hassine");
-	persons.add(p);
-	
+
 	public void setId(String id) {
 		this.id = id;
 	}
