@@ -12,7 +12,7 @@ public class Person {
 		return id;
 	}
 	
-	p = new person();
+	p = new Person();
 	p.setId("3");
 	p.setAge("25");
 	p.setFirstName("miled");
